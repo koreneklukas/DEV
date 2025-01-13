@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standart]
+requests
+apscheduler
+jwt
+datetime
+typing
+pydantic
+passlib
+gunicorn
